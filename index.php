@@ -3,7 +3,7 @@
 <head>
 <title>Perhitungan</title>
 <div id=1>Ini perhitungan</div>
-<div id=2>Jumlah kali kurang bagi</div>
+
 </head>
 
 <body>
